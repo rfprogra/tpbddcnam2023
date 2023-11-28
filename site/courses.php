@@ -425,7 +425,7 @@ error_reporting(E_ALL);
         </div>
         <div class="mb-3">
             <label for="jeu" class="form-label">Jeu:</label>
-            <input class="form-control" id="jeu" name="jeu"  ></input>
+            <input class="form-control" id="jeu" name="jeu" required ></input>
         </div>
         <div class="mb-3">
             <label for="nombre" class="form-label">Nombre produits:</label>
